@@ -1,3 +1,3 @@
 # Project-GD-s-BF
 Game Designer's Best Friend
-https://chat.deepseek.com/share/xz4hqpw3fpfti3ffak
+Программа упрощающее взаимодействие с проектом и с командой.Для гейдева и не только!
